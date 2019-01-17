@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtViewTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="@string/on_board_title_target_level_activity"
+                android:textColor="@color/colorPrimaryText"
+                android:textSize="25sp" />
+
+
+            <RadioGroup
+                android:id="@+id/radioGrp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtViewTitle"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp">
+
+                <RadioButton
+                    android:id="@+id/radio0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/af_radio_button"
+                    android:button="@android:color/transparent"
+                    android:padding="20dp"
+                    android:text="@string/target_level_no_activity"
+                    android:textColor="@drawable/af_radio_text_selected" />
+
+                <RadioButton
+                    android:id="@+id/radio1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/af_radio_button"
+                    android:button="@android:color/transparent"
+                    android:padding="20dp"
+                    android:text="@string/target_level_low_activity"
+                    android:textColor="@drawable/af_radio_text_selected" />
+
+                <RadioButton
+                    android:id="@+id/radio2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/af_radio_button"
+                    android:button="@android:color/transparent"
+                    android:padding="20dp"
+                    android:text="@string/target_level_medium_activity"
+                    android:textColor="@drawable/af_radio_text_selected" />
+
+                <RadioButton
+                    android:id="@+id/radio3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/af_radio_button"
+                    android:button="@android:color/transparent"
+                    android:padding="20dp"
+                    android:text="@string/target_level_high_activity"
+                    android:textColor="@drawable/af_radio_text_selected" />
+            </RadioGroup>
+
+            <Button
+                android:id="@+id/btnStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/radioGrp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="100dp"
+                android:paddingStart="70sp"
+                android:paddingLeft="70sp"
+                android:paddingEnd="70sp"
+                android:paddingRight="70sp"
+                android:text="@string/button_next"
+                android:textColor="@color/colorPrimary"
+                android:textSize="22sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

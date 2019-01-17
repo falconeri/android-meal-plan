@@ -1,0 +1,493 @@
+[
+  {
+    "id": "1",
+    "title": "Hari ke 1",
+    "menus": [
+      {
+        "name": "Telur Dadar Smoked Beef dan Daun Bawang",
+        "short_desc": "Hari ini masak simpel dan cepet pakai bahan yang ada di rumah aja, supaya kulkasnya bersih nanti belanja lagi ",
+        "type": "breakfast",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/de3aec8acfe73566/640x640sq70/photo.jpg"
+        ],
+        "ingredients": [
+          "5 butir telur",
+          "1 batang bawang daun, iris",
+          "Garam",
+          "Merica",
+          "Minyak untuk menggoreng"
+        ],
+        "steps": [
+          "Pecahkan telur kedalam mangkuk, campur daun bawang, smoked beef yang telah diiris dan bumbu-bumbu. Kocok merata.",
+          "Panaskan minyak diatas teflon. Lalu dadar campuran telur tadi sampai matang dikedua sisinya.",
+          "Angkat, hidangkan"
+        ]
+      },
+      {
+        "name": "Jus Strawbery",
+        "short_desc": "Jus spesial sebagai teman makan siang",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/d2fd2a311f3568e8/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "8 pcs buah strawbery",
+          "1 sdm SKM",
+          "1 gelas air",
+          "secukupnya es batu",
+          "1 sdt gula pasir(boleh skip)"
+        ],
+        "steps": [
+          "Bersihkan cuci buah.",
+          "Satukan semua bahan ke blander.",
+          "Bland semua sampai halus.",
+          "Siap dihidangkan.maaf ya bun ini bener bener simple.dan warnanya harusnya pink gitu,ini cerah banget sinar nya"
+        ]
+      },
+      {
+        "name": "Menu Makan Siang Ala Keto",
+        "short_desc": "",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/593dc63891dfb49f/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "4 biji sayap ayam bersih bagian tengah",
+          "2 butir telur",
+          "50 gr tempe",
+          "100 gr timun kupas dan potong menurut selera",
+          "Bahan bumbu :",
+          "1 sdt garam halus (Me-Himalaya salt)",
+          "1 sdt bawang bubuk",
+          "1 sdt lada hitam bubuk kasar",
+          "1 lembar daun jeruk"
+        ],
+        "steps": [
+          "Campur bahan bumbu dan sisakan 1/3 nya buat bumbu tempe. Bumbui sayap dengan bahan bumbu lalu diamkan 30 menit",
+          "Siapkan telur",
+          "Bumbui Tempe dengan 1/3 bahan bumbu lalu diamkan",
+          "Goreng sayap ayam hingga mateng",
+          "Goreng tempe hingga mateng",
+          "Lanjut goreng juga telur dan taburi dengan sedikit garam dan lada",
+          "Setelah semuanya selesai Tata semuanya di piring saji"
+        ]
+      },
+      {
+        "name": "Tahu Katsu",
+        "short_desc": "Murah meriah bahan seadanya rasa luar biasa, kriuk diluar lembut didalam, cocol saos sambal lbh mantabb",
+        "type": "dinner",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/0a5545e02fcb2238/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "4 buah tahu putih/kuning",
+          "1 siung bawang putih",
+          "1 sdt merica bubuk",
+          "6 sdm terigu",
+          "Sckpnya garam dan kaldu bubuk",
+          "Bahan pelapis :",
+          "Sckpnya terigu",
+          "1 btr telur/larutan terigu",
+          "Sckpnya tepung panir"
+        ],
+        "steps": [
+          "Haluskan tahu dan campur semua bahan aduk rata dan icip rasa",
+          "Balur tangan dgn terigu ambil adonan tahu bentuk seperti katsu",
+          "Siapkan bahan pelapis, celupkan katsu ke larutan tepung kemudian gulingkan ke tepung panir",
+          "Lakukan sampai selesai, bikinnya gede2 bgt kayak yg buat 😂 simpan dl dlm kulkas seblm di goreng spy panir menempel dgn sempurna",
+          "Panaskan minyak dgn api sedang, goreng katsu cukup 1x balik saja spy tdk menyerap banyak minyak, angkat dan tiriskan",
+          "Tahu katsu siap disantap di cocol saus sabel tambah mantab"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Hari ke 2",
+    "menus": [
+      {
+        "name": "Mie Udon Simple",
+        "short_desc": "Mie Udon Simple",
+        "type": "breakfast",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/a8acc703c6c5d5e0/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "3 siung Bawang Putih cincang",
+          "2 siung Bawang Merah iris2",
+          "1 bungkus mie udon",
+          "1 butir telur ayam",
+          "secukupnya Lada",
+          "secukupnya Garam",
+          "Bubuk Jahe (boleh skip)",
+          "secukupnya Bubuk Kaldu sachetan",
+          "Saos sambal",
+          "Bubuk Cabe",
+          "Sajiannya bebas ini pakai pokcoy dan daging kepiting olahan"
+        ],
+        "steps": [
+          "Tumis bawang putih dan bawang merah, harum masukkan air",
+          "Air mendidih masukkan garam, kaldu sachetan (aku pakai royco),bubuk lada, bubuk jahe,garam, saos sambal cicip rasa",
+          "Rasa sudah pas, masukkan mie udon, daging olahan kepiting, pokcoy, telur biar kan sampai telur matang(setengah matang)selera ajah",
+          "2 sd 3 menit matikan api, tabur bubuk cabe, bisa langsung disajikan di panci (ala2 korea gitu)kalau mau pindah ke mangkok, plating yg cantik biar serasa lg makan syantik direstoran semangat dan selamat mencoba"
+        ]
+      },
+      {
+        "name": "Roti kukus no telur no susu",
+        "short_desc": "Si bungsu udah 3 hari nagih terus pengen bikin roti, tp males banget mau bela-beli bahannya. Ya udh pake bahan yg ada aja. Super simple, super irit.",
+        "type": "breakfast",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/bcaac80f38de9efb/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "15 sdm tepung terigu cakra",
+          "3 sdm gula pasir",
+          "2 sdm margarin",
+          "Seuprit garam",
+          "1/2 sdm ragi instan",
+          "100 ml air hangat",
+          "secukupnya Pasta pandan",
+          "Meises utk isian"
+        ],
+        "steps": [
+          "Bikin biangnya dulu : Campur 1 sdm gula, ragi instan & air hangat. Aduk rata. Diamkan kurleb 10 menit sampai permukaan naik & berbuih. Jika tdk berbuih, jangan dipakai krn ragi sdh tdk bagus",
+          "Tuang tp terigu, garam, sisa gula pasir & margarin. Aduk rata, tambahkan adonan biang sedikit demi sedikit sambil terus diuleni. Tambahkan pasta pandan. Uleni terus selama kurleb 10 menit sampai kalis elastis. Bulatkan. Diamkan 30 menit",
+          "Olesi loyang dg margarin. Bagi adonan mjd bbrp bagian. Isi dg meises, bentuk bulat lonjong. Tata di loyang. Diamkan lg 10 menit, sambil panaskan kukusan.",
+          "Kukus 25-30 menit. Angkat & sajikan"
+        ]
+      },
+      {
+        "name": "Bistik Ayam Sosis",
+        "short_desc": "Bistik Ayam Sosis",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/6cbfa2163b6a807f/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "300 gr Fillet Ayam Bagian Paha (dada juga boleh)",
+          "Tepung Bumbu Serbaguna",
+          "1 butir Telur",
+          "1 pcs Jeruk Nipis",
+          "1 pcs Bawaang Bombay",
+          "1 pcs Bawang Putih",
+          "2 pcs Sosis Ayam (bisa skip)",
+          "1 pcs Wortel",
+          "5 pcs Buncis",
+          "3 sdm Kecap Manis",
+          "1 1/2 sdm Kecap Inggris",
+          "Secukupnya Garam",
+          "Secukupnya Lada",
+          "Secukupnya Gula",
+          "Secukupnya Mecin Jamur",
+          "1 sdm maizena aduk dengan 1 sdm air",
+          "Mentega untuk menumis",
+          "Minyak Goreng untuk menggoreng ayam",
+          "Sedikit Air"
+        ],
+        "steps": [
+          "Cuci ayam kemudian berikan perasan jeruk nipis diamkan 10 menit kurang lebih kemudian cuci kembali dengan air dan potong2 menjadi dadu kecil.",
+          "Kocok telur kemudian siapkan tepung bumbu serbaguna sebagai tepung kering. Masukan ayam yang sudah dipotong kecil tadi ke dalam telur kemudian satu per satu masukan ke tepung serbaguna guling2 kan hingga tercampur rata. apabila sudah rata masukan kedalam kulkas min 30 menit (kalau saya semalaman karna akan dimasak besok paginya)",
+          "Potong Bawang Bombay, Geprek Bawang Putih dan potong buncis dan wortel seperti korek api dan potong sosis menjadi bagian kecil kecil.",
+          "Siapkan minyak goreng untuk menggoreng ayam. Masukan ayam dadu tersebut goreng hingga warna berubah keemasan kemudian angkat dan tiriskan.",
+          "Untuk membuat saus : masukan mentega kemudian tumis bawang bombay dan bawang putih hingga harum kemudian masukan sosis yang telah dipotong2 tumis kembali kemudian masukan ayam yang telah matang tadi tumis kembali kemudian masukan kecap manis dan kecap inggris aduk kembali hingga merata",
+          "Masukan sedikit air kemudian masukan bumbu garam, gula, lada, dan mecin jamur. Tumis kembali hingga bumbu meresap, cek rasa apabila sudah pas masukan tepung maizena yang sudah dicampur dengan air. tumis aduk kembali apabila sudah matang ankgat dan sajikan.",
+          "Rebus wortel dan buncis hingga matang.",
+          "Tadaaaaaaa Bistik Ayam Sosis siap disantapppp"
+        ]
+      },
+      {
+        "name": "Cah brokoli buncis dan pakcoy",
+        "short_desc": "Cah brokoli buncis dan pakcoy",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/ec4a39e7501559f0/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "1/2 kg brokoli hijau+putih",
+          "200 gr buncis",
+          "200 gr pakcoy",
+          "Bumbu:",
+          "2 siung bawang putih",
+          "3 siung bawang merah",
+          "2 butir kemiri",
+          "Sedikit ketumbar+merica",
+          "1 bh tomat",
+          "Garam+penyedap"
+        ],
+        "steps": [
+          "Ulek semua bumbu, tumis sampai harum kemudian masukan brokoli pakcoy dan buncisnya setelah agak layu beri sedikit air tunggu sampai air menyusut. Sajikan"
+        ]
+      },
+      {
+        "name": "Cumi Pete + Sambel Tempong",
+        "short_desc": "Cumi Pete + Sambel Tempong",
+        "type": "diner",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/79d1febe007e55b5/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "1/2 kg cumi asin",
+          "5 siung bawang merah",
+          "5 siung bawang putih",
+          "Secukupnya Cabai rawit",
+          "Sedikit Gula (sesuai selera)",
+          "Sedikit Garam (sesuai selera)",
+          "2 sdt kecap manis",
+          "Secukupnya saus tiram",
+          "20 ml Air (matang)",
+          "2 sdm Minyak goreng",
+          "Bumbu Sambel Tempong",
+          "3 siung bawang merah",
+          "3 siung bawang putih",
+          "8 cabai rawit (sesuai selera)",
+          "Kacang panjang (sesuai selera)",
+          "secukupnya Gula",
+          "secukupnya Garam",
+          "3 potong besar Tempe",
+          "Minyak goreng",
+          "Bumbu untuk tempe",
+          "3 siung bawang putih",
+          "2 cm Kunir",
+          "Garam",
+          "10 ml air matang"
+        ],
+        "steps": [
+          "Cuci cumi-cumi hingga benar-benar bersih. Kemudian rebus sekitar 20 menit.",
+          "Kupas bawang merah dan bawang putih.",
+          "Haluskan bawang merah, bawang putih, cabai, gula dan juga garam.",
+          "Setelah bahan-bahan tadi benar-benar halus, kemudian tumis hingga harum.",
+          "Masukan cumi-cumi yang telah di tiriskan. Oseng hingga bumbu meresap.",
+          "Tambahkan kecap dan saus tiram. Aduk hingga rata. Setelah rasa sesuai angkat dan sajikan.",
+          "Untuk langkah sambel tempong. Haluskan bumbu untuk tempe kemudian beri 10 ml air. Masukan tempe dan goreng hingga sedikit kecoklatan.",
+          "Langkah untuk sambel tempong. Tumis bahan2 untuk sambel tempong. Kecuali garam dan gula. Tumis sebentar saja hingga layu. Kemudian harluskan tambahkan gula dan garam hingga rasa sesuai. Masukan tempe yg sudah ditiriskan. Hancurkan dan taburi kacang panjang yg sudah di iris kecil2"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Hari ke 3",
+    "menus": [
+      {
+        "name": "Nasi Goreng Kribo",
+        "short_desc": "Menu sarapan kesukaan anak2",
+        "type": "breakfast",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/99df522a37c28ea2/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "2 sendok nasi, nasi (sudah dikeluarkan dr magic com)",
+          "secukupnya Ayam suwir",
+          "1 batang wortel (iris dadu)",
+          "1 batang bawang daun (iris tipis)",
+          "1 butir telur",
+          "2 siung bawang merah (iris tipis)",
+          "1 siung bawang putih (iris tipis)",
+          "sesuai selera Kecap",
+          "secukupnya Garam",
+          "secukupnya Penyedap rasa",
+          "Minyak untuk menumis",
+          "Pelengkap :",
+          "Telur dadar (iris tipis)"
+        ],
+        "steps": [
+          "Siapkan wajan berisi minyak. Panaskan. Tumis bawang2an hingga harum. Masukkan telur, aduk rata lalu masukkan wortel dan bawang daun. Tambahkan nasi, kecap, garam dan penyedap rasa. Aduk hingga rata. Gunakan api kecil saja. Tes rasa.",
+          "Nasi Goreng Kribo recipe step 1 photo",
+          "Cetak menggunakan mangkok. Siapkan piring saji. Tambahkan irisan telur dadar di atasnya. Nasi goreng kribo siap disajikan"
+        ]
+      },
+      {
+        "name": "Ayam Rica Kemangi & Tomat Enak Untuk Makan Siang",
+        "short_desc": "Jadiiiiii, krn pnya banyak stock ayam. Tapi bosen digoreng dan aneka kreasi gorengan ayam lainnya. Diajarin sm temen bikin ginian aja. Enak & Gampang",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/e6a8743726fddfe6/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "1/4 kg Ayam",
+          "secukupnya Serai",
+          "sesuai selera Kemangi",
+          "Tomat dipotong-potong",
+          "Bumbu Halus",
+          "5 siung Bawang merah",
+          "5 siung Bawang putih",
+          "Kunyit sedikit (seujung kelingking)",
+          "Jahe sedikit (ujung jempol)",
+          "Tomat 1 buah yang kecil",
+          "3 Cabe merah besar",
+          "6-7 cabe rawit (sesuai selera, krn saya mau pedas)",
+          "secukupnya Gula",
+          "secukupnya Garam",
+          "secukupnya Merica",
+          "Royco / masako"
+        ],
+        "steps": [
+          "Ayam yang sudah terpotong jadi 5 (5 bagian kalo saya) cuci bersih. Tiriskan. Lalu cuma baluri garam & merica. Goreng. Hingga setengah matang. Sisihkan.",
+          "Bumbu halus di blender jadi satu. Setelah itu ditumis hingga harum (saat menumis masukkan serai) masukkan gula garam merica royco secukupnya. Tambahkan air 1 gelas kecil. Koreksi rasa.",
+          "Setelah bumbu halus matang. Bau & teksturnya pas. Lalu masukkan ayam. Tutup. Hingga air menyusut. Setelah dirasa kentalnya pas, lalu masukkan potongan tomat & kemangi. Aduk-aduk sebentar. Selesai."
+        ]
+      },
+      {
+        "name": "cah kangkung terasi",
+        "short_desc": "cah kangkung terasi",
+        "type": "lunch",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/cea3174c139796d6/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "1 ikat kangkung",
+          "5 buah cabe rawit merah",
+          "3 siung bawang merah",
+          "3 siung bawang putih",
+          "1/2 Terasi",
+          "Gula pasir",
+          "Garam",
+          "Sasa mecin"
+        ],
+        "steps": [
+          "Potong2 kangkung lalu cuci bersih dengan air mengalir trus tiriskan",
+          "Potong bawang merah, bawang putih cabe rawit saya sh caberawit ny dibuang biji ny biar ga terlalu pedas",
+          "Siapkan minyak tumis bahan td sudah di iris tadi setelah itu masukan terasi klw sudah wangi masukan kangkung,air tambahkan gula,garam dan mecin tunggu hingga layu angkat dan siap disajikan"
+        ]
+      },
+      {
+        "name": "Bakso Ayam Simple",
+        "short_desc": "Aku bikin bakso dengan bahan seperti ini karena sedang ada pantangan tepung",
+        "type": "dinner",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/08822a386af6c24c/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "250 gr daging ayam giling",
+          "1 butir telur",
+          "1 sachet agar-agar plain",
+          "Garam",
+          "Kaldu jamur",
+          "Merica",
+          "Serbul bawang putih"
+        ],
+        "steps": [
+          "Didihkan air terlebih dahulu",
+          "Campurkan semua bahan hingga benar-benar tercampur rata",
+          "Bulat - bulat adonan sesuai selera kemudian rebus dalam air mendidih",
+          "Rebus hingga bakso mengambang.",
+          "Angkat dan tirikan. Bakso bisa diolah kembali sesuai keinginan..",
+          "Selamat mencoba"
+        ]
+      },
+      {
+        "name": "Soto Ayam",
+        "short_desc": "Dati semalam pengen makan soto kuning, ini tuh di kasih bawang putih goreng yg d halusin wangi kuahnya bikin selera makan bertambah, enak di makan saat musim dingin atau pas cuaca siang panas. Karena rasanya yang manis, asem dan pedes bikin segar. Yuk moms cobain, jgn lupa di cookmark dan d re-cook yah karena gampang banget bikinnya.",
+        "type": "dinner",
+        "calorie": "200",
+        "macros": {
+          "fat": 0.2,
+          "protein": 13.2,
+          "carbs": 19.8
+        },
+        "images": [
+          "https://img-global.cpcdn.com/003_recipes/3da72332f2133958/751x532cq70/photo.jpg"
+        ],
+        "ingredients": [
+          "1/2 kg dada ayam rebus air nya jangan di buang lalu goreng ayam",
+          "Bihun rendam air dingi",
+          "1/2 kepala kubis",
+          "Bumbu halus:",
+          "5 siung bawang merah",
+          "5 siung bawang putih",
+          "3 ruas kunyit",
+          "Bumbu geprek:",
+          "1 ruas lengkuas",
+          "2 batang serai",
+          "2 lembar daun salam",
+          "2 lembar daun jeruk",
+          "Bahan pelengkap",
+          "Jeruk nipis",
+          "Daun bawang"
+        ],
+        "steps": [
+          "Tumis bumbu halus dan bahan geprek hingga wangi, masukan air rebusan ayam beri kaldu ayam, garam dan sedikit gula putih tes rasa biarkan hingga mendidih. Jika air kurang banyak bisa ditambahkan sesuai selera.",
+          "Siapkan dalam mangkuk irisan kubis, bihun dan ayam yg telah di suir siram dengan kuah, jika ada beri bawang putih goreng yg d haluskan beri sambel, kecap, irisan tomat, daun bawang dan perasan jeruk. Siap di hidangkan."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Meal Plan</string>
+    <string name="app_name_short" translatable="false">ID Meal Plan</string>
+    <string name="start_now">Mulai</string>
+    <string name="on_board_title_target">Apa Target Anda?</string>
+    <string name="on_board_title_target_weight">Berapa Banyak?</string>
+    <string name="on_board_title_target_gender">Jenis Kelamin?</string>
+    <string name="on_board_title_target_level_activity">Level Aktifitas?</string>
+    <string name="on_board_title_target_plan">Rencana Makan?</string>
+    <string name="on_board_title_current_weight">Berat Badan?</string>
+    <string name="on_board_title_current_height">Tinggi Badan?</string>
+    <string name="on_board_title_current_birth_date">Tanggal Lahir?</string>
+    <string name="button_next">Selanjutnya</string>
+    <string name="target_down">Turun Berat Badan</string>
+    <string name="target_keep">Pertahankan Berat Badan</string>
+    <string name="target_up">Naik Berat Badan</string>
+    <string name="target_weight_1_imperial">0.5 Kg</string>
+    <string name="target_weight_2_imperial">1 Kg</string>
+    <string name="target_weight_imperial">Kg</string>
+    <string name="target_height_imperial">Cm</string>
+    <string name="target_gender_man">Laki - laki</string>
+    <string name="target_gender_woman">Perempuan</string>
+    <string name="target_level_no_activity">Tidak Aktif</string>
+    <string name="target_level_no_activity_subtitle">Sedikit atau tanpa olahraga</string>
+    <string name="target_level_low_activity">Aktifitas Rendah</string>
+    <string name="target_level_low_activity_subtitle">Olahraga ringan atau olahraga 1&#8211;3 hari / minggu</string>
+    <string name="target_level_medium_activity">Aktifitas Sedang</string>
+    <string name="target_level_medium_activity_subtitle">Olahraga sedang atau olahraga 3&#8211;5 hari / minggu</string>
+    <string name="target_level_high_activity">Aktifitas Tinggi</string>
+    <string name="target_level_high_activity_subtitle">Pekerjaan berat atau olahraga 6&#8211;7 hari / minggu</string>
+    <string name="target_level_very_high_activity">Aktifitas Sangat Tinggi</string>
+    <string name="target_level_very_high_activity_subtitle">Latihan yang sangat berat atau olahraga dan pekerjaan berat / latihan x2</string>
+    <string name="target_plan_1">3 Hari</string>
+    <string name="target_plan_2">7 Hari</string>
+    <string name="target_plan_3">14 Hari</string>
+    <string name="reset">Reset Plan</string>
+    <string name="meal_breakfast">Makan Pagi</string>
+    <string name="meal_lunch">Makan Siang</string>
+    <string name="meal_dinner">Makan Malam</string>
+    <string name="meal_detail_ingredients">Bahan - bahan</string>
+    <string name="meal_detail_steps">Langkah Pembuatan</string>
+</resources>
